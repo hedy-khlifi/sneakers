@@ -183,7 +183,7 @@ export const products: Product[] = [
     featured: false,
   },
   {
-    id: "nb-003",
+    id: "nb-03",
     name: "Warriors Statement Jersey",
     brand: "Nike NBA",
     price: 90,
