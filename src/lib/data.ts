@@ -127,8 +127,7 @@ export const products: Product[] = [
     price: 155,
     category: "sneakers",
     tag: "NEW",
-    image:
-      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+    image: "https://images.pexels.com/photos/1456735/pexels-photo-1456735.jpeg",
     colorway: "Cream / Sage",
     sizes: [40, 41, 42, 43, 44, 45],
     description:
