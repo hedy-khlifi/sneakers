@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: "https://catchy99.vercel.app",
     images: [
       {
-        url: "https://catchy99.vercel.app/og-image.png",
+        url: "https://catchy99.vercel.app/favicon.png",
         width: 1200,
         height: 630,
         alt: "CATCHY99 Sneakers & Streetwear",
@@ -22,7 +22,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
       <head>
